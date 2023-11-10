@@ -35,12 +35,13 @@
 
 ### Краткая информация о данных
 ....
-
+:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Оглавление)
 ### Этапы работы над проектом
 ....
-
+:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Оглавление)
 ### Результаты:
 ....
-
+:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Оглавление)
 ### Выводы:
 ....
+:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Оглавление)
