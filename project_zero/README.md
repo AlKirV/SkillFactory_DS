@@ -1,22 +1,22 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Краткая-информауия-о-данных)
+[3. Краткая информация о данных](https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero/README.md#Краткая-информауия-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero/README.md#Этапы-работы-над-проектом)
 
-[6. Результат](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Результат)
+[6. Результат](https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero/README.md#Результат)
 
-[6. Выводы](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Выводы)
+[6. Выводы](https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero/README.md#Выводы)
 
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
 
-:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -35,15 +35,17 @@
 
 ### Краткая информация о данных
 ....
-:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero/README.md#Оглавление)
 ### Этапы работы над проектом
+Поиск оптимального алгоритма, угадывающего числа
+Приминение алгоритма и его тестирование
 ....
-:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero/README.md#Оглавление)
 ### Результаты:
-Применил метод бинарного поиска, добившись фиксированных 6 попыток
-
-:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Оглавление)
-### Выводы:
 Программа находит число менее чем за 20 попыток.
 
-:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero/README.md#Оглавление)
+### Выводы:
+Применил метод бинарного поиска, добившись фиксированных 6 попыток.
+
+:arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero/README.md#Оглавление)
