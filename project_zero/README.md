@@ -2,11 +2,16 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md)
-[3. Краткая информация о данных](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md)
-[4. Этапы работы над проектом](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md)
-[6. Результат](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md)
-[6. Выводы](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md)
+
+[2. Какой кейс решаем?](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Какой-кейс-решаем)
+
+[3. Краткая информация о данных](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Краткая-информауия-о-данных)
+
+[4. Этапы работы над проектом](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Этапы-работы-над-проектом)
+
+[6. Результат](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Результат)
+
+[6. Выводы](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Выводы)
 
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
