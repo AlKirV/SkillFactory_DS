@@ -2,4 +2,4 @@
 
 ## Projects
 
-* [Проект 0. Игра: Угадай число] (https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero)
+* [Проект 0. Игра: Угадай число] (https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero)
