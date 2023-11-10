@@ -37,8 +37,8 @@
 ....
 :arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero/README.md#Оглавление)
 ### Этапы работы над проектом
-Поиск оптимального алгоритма, угадывающего числа
-Применение алгоритма и его тестирование
+Поиск оптимального алгоритма, угадывающего числа.
+Применение алгоритма и его тестирование.
 
 :arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/Master/project_zero/README.md#Оглавление)
 ### Результаты:
