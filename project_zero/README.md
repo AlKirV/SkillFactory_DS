@@ -40,8 +40,10 @@
 ....
 :arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Оглавление)
 ### Результаты:
-....
+Применил метод бинарного поиска, добившись фиксированных 6 попыток
+
 :arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Оглавление)
 ### Выводы:
-....
+Программа находит число менее чем за 20 попыток.
+
 :arrow_up: [к оглавлению](https://github.com/AlKirV/SkillFactory_DS/tree/main/project_zero/README.md#Оглавление)
